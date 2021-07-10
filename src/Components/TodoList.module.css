@@ -1,0 +1,47 @@
+.todolist{
+
+    background: hsl(0, 5%, 52%);
+    border-radius: 4px;
+    margin-left :25%;
+    max-width: 500px;
+    padding: 1px;
+
+}
+
+.main{
+    background: #f4f3f5;
+    
+
+}
+
+li{
+    align-items: center;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(29, 27, 27, 0.15);
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+    margin-bottom: 6px;
+    padding: 3px 10px;
+    
+}
+
+.editBtn {
+    display: block;
+    padding: 3px 10px;
+    position: relative;
+    overflow: auto;
+    float: right;
+   }
+
+.delBtn {
+    display: block;
+    margin-left: auto;
+    padding: 3px 10px;
+    position: relative;
+    overflow: auto;
+    float: right;
+   }
+
+ 

@@ -1,0 +1,49 @@
+.main{
+    background: #ded9ee;
+    padding-left: 25%;
+    margin-bottom: 6px;
+   
+
+}
+
+.form {
+    width: 40rem;
+    margin: 2rem auto;
+    
+  }
+
+h2{
+
+    display: block;
+    margin-left: auto;
+}
+
+button {
+    font: inherit;
+    background-color: rgb(49, 49, 51);
+    border: 1px solid rgb(82, 76, 76);
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 20px;
+    }
+
+input {
+
+    font: inherit;
+    background-color: transparent;
+    border: 1px solid rgb(82, 76, 76);
+    color: rgb(20, 19, 19);
+    font-weight: bold;
+    padding: 0.5rem 1.5rem;
+ 
+
+}    
+
+.form button:hover,
+.form button:active {
+  background-color: #4e4b3b;
+  border-color: #575340;
+}
